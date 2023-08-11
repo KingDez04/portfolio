@@ -9,7 +9,7 @@ const Technologies = () =>  (
      <br/>
      <SectionTitle>Technologies</SectionTitle>
      <SectionText>
-      I've worked with a range of technologies in the web development world
+      I've worked with a range of technologies in Full stack web development and Data Science(AI & ML).
      </SectionText>
      <List>
       <ListItem>
@@ -18,6 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
+            HTML <br/>
             CSS <br/>
             React.js <br/>
             Next.js
@@ -30,7 +31,10 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Node and Databases
+            Node.js <br/>
+            Express.js <br/>
+            Django <br/>
+            Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -40,10 +44,10 @@ const Technologies = () =>  (
           <ListTitle>Languages</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            HTML<br/>
+            C++<br/>
             Python<br/>
             JavaScript<br/>
-            C++<br/>
+            Java<br/>
             C
           </ListParagraph>
         </ListContainer>
