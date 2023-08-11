@@ -38,7 +38,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2021, text: 'Started my journey as a Tech Enthusiast', },
+  { year: 2021, text: 'Graphics Designer at True Arts Academy', },
   { year: 2022, text: 'Got my first Tech-certificate on the theoretical understanding of HTML', },
   { year: 2022, text: 'Started studying Computer Science at Babcock University', },
   { year: 2023, text: 'Accepted into the Software Engineering Programme at ALX', },
