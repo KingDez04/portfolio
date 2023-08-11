@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'TicTacToe',
+    description: "A tictactoe python application that accepts user input that simulates multiplayer and single player mode usinng min max algorithm.",
+    image: '/public/images/5.webp',
+    tags: ['Python'],
+    source: 'https://github.com/KingDez04/Py/tree/master/tictactoe.py',
+    visit: 'https://github.com/KingDez04/Py/tree/master/tictactoe.py',
+    id: 0,
+  },
+  {
     title: 'Rcrsv Fact',
     description: "The program is called RcrsvFact and it is a simple C++ program that allows users to generate the factorial of an integer through recursion.",
     image: '/public/images/5.webp',
