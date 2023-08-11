@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: 'TicTacToe',
-    description: "A tictactoe python application that accepts user input that simulates multiplayer and single player mode usinng min max algorithm.",
+    description: "A python application that accepts user input and simulates both multiplayer and single player mode using min max algorithm.",
     image: '/public/images/5.webp',
     tags: ['Python'],
-    source: 'https://github.com/KingDez04/Py/tree/master/tictactoe.py',
-    visit: 'https://github.com/KingDez04/Py/tree/master/tictactoe.py',
+    source: 'https://github.com/KingDez04/Py/blob/main/tictactoe.py',
+    visit: 'https://github.com/KingDez04/Py/blob/main/tictactoe.py',
     id: 0,
   },
   {
