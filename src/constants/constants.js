@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'ATM',
     description:"Console application that allows a user to simulate the workings of an ATM machine.",
-    image: '/images/6.jpeg',
+    image: '/images/2.jpg',
     tags: ['C++'],
     source: 'https://github.com/KingDez04/RcrsvFact/tree/master/ATM',
     visit: 'https://github.com/KingDez04/RcrsvFact/tree/master/ATM',
