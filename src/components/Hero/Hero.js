@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Deadline-oriented software engineer and Computer Science student at Babcock University. Solid track record of architecting solutions that exceed client expectations.
       </SectionText>
-      <Button onclick={() => window.location = 'https://google.com'}>About</Button>
+      <Button onclick={() => window.location = 'https://google.com'}>My CV</Button>
     </LeftSection>
   </Section>
 );
