@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 5, text: 'GDSC, AWS & MLSA Certificates'},
-  { number: 1, text: 'Certificate of Appreciation in helping to grow the DevTown community', },
+  { number: 1, text: 'Certificate of Appreciation in growing DevTown community', },
   { number: 1, text: 'Silver Medal in interschool chess competition', },
   { number: 5, text: 'Bootcamps Completed', }
 ];
