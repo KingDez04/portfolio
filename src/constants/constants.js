@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'TicTacToe',
     description: "A python application that accepts user input and simulates both multiplayer and single player mode using min max algorithm.",
-    image: '/public/images/5.webp',
+    image: '/images/5.webp',
     tags: ['Python'],
     source: 'https://github.com/KingDez04/Py/blob/main/tictactoe.py',
     visit: 'https://github.com/KingDez04/Py/blob/main/tictactoe.py',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Rcrsv Fact',
     description: "The program is called RcrsvFact and it is a simple C++ program that allows users to generate the factorial of an integer through recursion.",
-    image: '/public/images/5.webp',
+    image: '/images/5.webp',
     tags: ['C++'],
     source: 'https://github.com/KingDez04/RcrsvFact/tree/master/RcrsvFnctn(fact)',
     visit: 'https://github.com/KingDez04/RcrsvFact/tree/master/RcrsvFnctn(fact)',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'ATM',
     description:"Console application that allows a user to simulate the workings of an ATM machine.",
-    image: '/public/images/6.jpeg',
+    image: '/images/6.jpeg',
     tags: ['C++'],
     source: 'https://github.com/KingDez04/RcrsvFact/tree/master/ATM',
     visit: 'https://github.com/KingDez04/RcrsvFact/tree/master/ATM',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Pswrd',
     description: "Password Verification console application.",
-      image: '/public/images/7.jpg',
+      image: '/images/7.jpg',
       tags: ['C++'],
     source: 'https://github.com/KingDez04/RcrsvFact/tree/master/Pswrd',
     visit: 'https://github.com/KingDez04/RcrsvFact/tree/master/Pswrd',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'MethodCalc(sc)',
     description: "Calculator using user defined functions.",
-    image: '/public/images/8.jpg',
+    image: '/images/8.jpg',
     tags: ['C++'],
     source: 'https://github.com/KingDez04/RcrsvFact/tree/master/Method%20Calc(sc)',
     visit: 'https://github.com/KingDez04/RcrsvFact/tree/master/Method%20Calc(sc)',
