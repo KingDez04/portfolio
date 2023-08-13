@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'HotStar Clone',
+    description: "A Disney+ HotStar Clone static website using HTML, CSS & JavaScript.",
+    image: '/images/3.png',
+    tags: ['HTML, CSS, JavaScript'],
+    source: 'https://github.com/KingDez04/HotStar_Clone',
+    visit: 'https://github.com/KingDez04/HotStar_Clone',
+    id: 0,
+  },
+  {
     title: 'TicTacToe',
     description: "A python application that accepts user input and simulates both multiplayer and single player mode using min max algorithm.",
     image: '/images/1.png',
