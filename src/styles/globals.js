@@ -32,7 +32,7 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
   img {
-    width: 70%;
+    width: 100%;
     min-height: 100%;
     object-fit: cover;
     display: block;
