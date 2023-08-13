@@ -8,7 +8,7 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center >
-        <p style={{color: 'yellow'}}>HELLO, WORLD.</p><br />
+        <Section style={{color: 'yellow'}}>HELLO, WORLD.</Section><br />
         I'm Ademeso, Ademola.
       </SectionTitle>
       <SectionText>
