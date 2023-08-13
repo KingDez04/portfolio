@@ -32,11 +32,11 @@ const GlobalStyles = createGlobalStyle`
     list-style: none;
   }
   img {
-    /*width: 70%;
-    min-height: 100%;*/
+    width: 70%;
+    min-height: 100%;
     object-fit: cover;
     display: block;
-    margin-left: auto;
+    /*margin-left: auto*/;
   }
 
 `;
