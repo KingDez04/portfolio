@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/3.png',
     tags: ['HTML, CSS, JavaScript'],
     source: 'https://github.com/KingDez04/HotStar_Clone',
-    visit: 'https://hot-star-clone-silk.vercel.app',
+    visit: 'https://ademolaademeso-hot-star-clone.vercel.app/',
     id: 0,
   },
   {
