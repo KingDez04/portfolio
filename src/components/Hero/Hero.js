@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
@@ -14,7 +15,11 @@ const Hero = (props) => (
       <SectionText>
         CS Major, Frontend Developer
       </SectionText>
-      <Button onclick={() => window.location = 'https://google.com'}>Resume</Button>
+      <Link href="/public/Ademola - Resume.pdf" passHref legacyBehavior>
+        <a>
+          <Button>Resume</Button>
+        </a>
+      </Link>
     </LeftSection>
   </Section>
 );
