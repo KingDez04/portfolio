@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Computer Science student and Tech Enthusiast with a passion for Data Science and Automation through the use of Data Structures and algorithms.
+      A third-year Computer Science student at Babcock University and a Software Engineering student at ALX with a passion for Frontend development. I am also conversant with Data Structures & Algorithms through solving various Leetcode challenges where I use the C++ programming language because of it's OOP concepts.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll} >
         <>
