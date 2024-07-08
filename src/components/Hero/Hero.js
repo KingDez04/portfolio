@@ -12,9 +12,9 @@ const Hero = (props) => (
         I'm Ademeso, Ademola.
       </SectionTitle>
       <SectionText>
-        Deadline-oriented software engineer and Computer Science student at Babcock University. Solid track record of architecting solutions that exceed client expectations.
+        A third-year Computer Science student at Babcock University and a Software Engineering student at ALX with a passion for Frontend development. I have experience working with React and SQL.
       </SectionText>
-      <Button onclick={() => window.location = 'https://google.com'}>My CV</Button>
+      <Button onclick={() => window.location = 'https://google.com'}>My Resume</Button>
     </LeftSection>
   </Section>
 );

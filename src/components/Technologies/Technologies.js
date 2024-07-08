@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiPython, DiReact, DiZend } from 'react-icons/di';
+import { DiPython, DiReact } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -9,7 +9,7 @@ const Technologies = () =>  (
      <br/>
      <SectionTitle>Technologies</SectionTitle>
      <SectionText>
-      I've worked with a range of technologies in Full stack web development and Data Science(AI & ML).
+      I've worked with a range of technologies in Front-End development and Data Science(AI & ML).
      </SectionText>
      <List>
       <ListItem>
@@ -20,35 +20,21 @@ const Technologies = () =>  (
             Experience with <br/>
             HTML <br/>
             CSS <br/>
-            React.js <br/>
-            Next.js
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <DiFirebase size="3rem" />
-        <ListContainer>
-          <ListTitle>Back-End</ListTitle>
-          <ListParagraph>
-            Experience with <br/>
-            Node.js <br/>
-            Express.js <br/>
-            Django <br/>
-            Databases
+            JavaScript <br/>
+            React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiPython size="3rem" />
         <ListContainer>
-          <ListTitle>Languages</ListTitle>
+          <ListTitle>Data Science</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            C++<br/>
-            Python<br/>
-            JavaScript<br/>
-            Java<br/>
-            C
+            Python <br/>
+            SQL <br/>
+            Django <br/>
+            Azure
           </ListParagraph>
         </ListContainer>
       </ListItem>
