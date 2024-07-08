@@ -1,3 +1,7 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/profile.jpg)
+My personal portfolio website to showcase my skills, experience and projects.
+
+### Screenshot
+
+![Screenshot](./public/images/screenshot.jpeg)
