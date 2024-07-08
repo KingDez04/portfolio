@@ -15,8 +15,8 @@ const Hero = (props) => (
       <SectionText>
         CS Major, Frontend Developer
       </SectionText>
-      <Link href="/public/Ademola - Resume.pdf" passHref legacyBehavior>
-        <a>
+      <Link href="/Ademola%20-%20Resume.pdf" passHref legacyBehavior>
+        <a target="_blank" rel="noopener noreferrer">
           <Button>Resume</Button>
         </a>
       </Link>
