@@ -21,19 +21,19 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
-      <SocialIcons href="https://github.com/KingDez04">
-        <AiFillGithub size="3rem" />
-      </SocialIcons>
       <SocialContainer>
-      <SocialIcons href="https://www.linkedin.com/in/ademola-ademeso">
-        <AiFillLinkedin size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/King_dez_04/">
-        <AiFillInstagram size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://twitter.com/King_dez_04">
-        <AiFillTwitterSquare size="3rem" />
-      </SocialIcons>
+        <SocialIcons href="https://github.com/KingDez04">
+          <AiFillGithub size="3rem" />
+        </SocialIcons>
+        <SocialIcons href="https://www.linkedin.com/in/ademola-ademeso">
+          <AiFillLinkedin size="3rem" />
+        </SocialIcons>
+        <SocialIcons href="https://www.instagram.com/King_dez_04/">
+          <AiFillInstagram size="3rem" />
+        </SocialIcons>
+        <SocialIcons href="https://twitter.com/King_dez_04">
+          <AiFillTwitterSquare size="3rem" />
+        </SocialIcons>
       </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
