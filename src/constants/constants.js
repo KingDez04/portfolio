@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'HotStar Clone',
-    description: "A Disney+ HotStar Clone static website using HTML, CSS & JavaScript.",
+    description: "A Disney+ Hotstar Clone static website.",
     image: '/images/htstr.png',
     tags: ['HTML, CSS, JavaScript'],
     source: 'https://github.com/KingDez04/HotStar_Clone',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'FindIt',
     description: "A web application designed to streamline the process of reporting lost items and finding found items within universities.",
-    image: '/images/findit.png',
+    image: '/images/findit.jpeg',
     tags: ['Django, JavaScript, CSS, Azure'],
     source: 'https://github.com/shadowdevsbu/lost-and-found-system.git',
     visit: 'https://shadowdevs-findit.azurewebsites.net/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Calculator',
     description: "A simple calculator app using HTML, CSS & JavaScript.",
-    image: '/images/clcltr.jpg',
+    image: '/images/clcltr.png',
     tags: ['HTML, CSS, JavaScript'],
     source: 'https://github.com/KingDez04/Clcltr',
     visit: 'https://ademolaademeso-clcltr.vercel.app/',
@@ -41,5 +41,5 @@ export const TimeLineData = [
   { year: 2021, text: 'Graphics Designer at True Arts Academy', },
   { year: 2022, text: 'Admitted to study Computer Science at Babcock University', },
   { year: 2023, text: 'Accepted into the Software Engineering Programme at ALX', },
-  { year: 2024, text: 'Web Development Intern at TechnoHacks Edu tech', },
+  { year: 2024, text: 'Web Development Intern at TechnoHacks EduTech', },
 ];
