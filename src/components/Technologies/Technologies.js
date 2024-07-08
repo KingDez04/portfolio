@@ -9,19 +9,20 @@ const Technologies = () =>  (
      <br/>
      <SectionTitle>Technologies</SectionTitle>
      <SectionText>
-      I've worked with a range of technologies in Front-End development and Data Science(AI & ML).
+      I've worked with a range of technologies in Frontend development and Data Science.
      </SectionText>
      <List>
       <ListItem>
         <DiReact size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Frontend</ListTitle>
           <ListParagraph>
             Experience with <br/>
             HTML <br/>
             CSS <br/>
             JavaScript <br/>
-            React.js
+            React.js <br />
+            Git
           </ListParagraph>
         </ListContainer>
       </ListItem>
