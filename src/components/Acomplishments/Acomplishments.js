@@ -4,10 +4,10 @@ import { Section, SectionTitle } from '../../styles/GlobalComponents';
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 2, text: 'Microsoft Certified'},
+  { number: 2, text: 'Microsoft Certifications'},
   { number: 1, text: 'DevTown Certificate of Appreciation', },
-  { number: 1, text: 'Corona interschool chess competition runners-up', },
-  { number: 1, text: 'GDSC Data Track Member of the month', }
+  { number: 1, text: 'Interschool chess runners-up', },
+  { number: 1, text: 'GDG Data Track Member of the month', }
 ];
 
 const Acomplishments = () => (

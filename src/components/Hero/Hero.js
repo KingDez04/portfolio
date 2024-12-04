@@ -13,7 +13,7 @@ const Hero = (props) => (
         I'm Ademeso, Ademola.
       </SectionTitle>
       <SectionText>
-        CS Major, Frontend Developer
+        Software Engineer | CS Major
       </SectionText>
       <Link href="/Ademola%20-%20Resume.pdf" passHref legacyBehavior>
         <a target="_blank" rel="noopener noreferrer">

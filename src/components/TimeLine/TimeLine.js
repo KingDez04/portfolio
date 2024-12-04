@@ -32,8 +32,6 @@ const Timeline = () => {
     }
   }
 
-  // snap back to beginning of scroll when window is resized
-  // avoids a bug where content is covered up if coming from smaller screen
   useEffect(() => {
     const handleResize = () => {
       scroll(carouselRef.current, 0);
@@ -46,7 +44,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      A third-year Computer Science student at Babcock University and a Software Engineering student at ALX with a passion for Frontend development. I am also conversant with Data Structures & Algorithms through solving various Leetcode challenges where I use the C++ programming language because of it's OOP concepts.
+      I'm driven by a passion for blending technology with creativity, constantly exploring new ways to solve problems and enhance user experiences. With a foundation in software engineering, I thrive on tackling complex challenges and enjoy being part of processes that shape how people interact with technology. I’m always curious, learning, and adapting to the ever-evolving tech landscape. Whether collaborating on impactful projects or exchanging ideas, I believe in pushing boundaries and exploring new possibilities. If you share the same passion for innovation and problem-solving, let’s connect!
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll} >
         <>
