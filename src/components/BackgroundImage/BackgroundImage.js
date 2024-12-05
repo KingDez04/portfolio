@@ -4,7 +4,6 @@ import styled from 'styled-components';
 const Container = styled.div`
   position: relative;
   width: 100%;
-  height: 100vh;
   overflow: hidden;
 `;
 
@@ -21,6 +20,8 @@ const Background = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
+  border-radius: 20px;
 
   &::before {
     content: '';
@@ -32,6 +33,7 @@ const Background = styled.div`
     background-color: #0F1624;
     opacity: 0.2;
     z-index: 1;
+    border-radius: 20px;
   }
 `;
 
