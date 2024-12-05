@@ -5,20 +5,20 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
-const Hero = (props) => (
+const Hero = () => (
   <Section row nopadding>
     <LeftSection>
-      <SectionTitle main center >
-        HELLO, WORLD.<br />
-        I'm Ademeso, Ademola.
+      <SectionTitle main center>
+        Ademeso,<br />
+        Ademola.
       </SectionTitle>
       <SectionText>
         Software Engineer | CS Major
       </SectionText>
-      <Link href="/Ademola%20-%20Resume.pdf" passHref legacyBehavior>
-        <a target="_blank" rel="noopener noreferrer">
-          <Button>Resume</Button>
-        </a>
+      <Link href="/Ademola%20-%20Resume.pdf" passHref>
+        <Button as="a" target="_blank" rel="noopener noreferrer">
+          Resume
+        </Button>
       </Link>
     </LeftSection>
   </Section>
