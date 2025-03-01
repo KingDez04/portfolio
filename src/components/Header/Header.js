@@ -3,14 +3,14 @@ import React from 'react';
 import { AiFillGithub, AiFillLinkedin, AiFillMediumCircle, AiFillTwitterCircle } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
-import { Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
 const Header = () =>  (
-  <container>
+  <Container>
     <Div1>
       <Link legacyBehavior href="/">
         <a
-         style={{sdisplay: "flex", alignItems: "center", color: 'yellow', marginBottom: '10px'}}>
+         style={{display: "flex", alignItems: "center", color: 'white', marginBottom: '20px'}}>
           <DiCssdeck size="3rem" />
            <Span>Portfolio</Span>
         </a>
@@ -43,11 +43,11 @@ const Header = () =>  (
       <SocialIcons href="https://medium.com/@desmondademeso">
         <AiFillMediumCircle size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://twitter.com/King_dez_04">
+      <SocialIcons href="https://twitter.com/kingdez_04">
         <AiFillTwitterCircle size="3rem" />
       </SocialIcons>
     </Div3>
-  </container>
+  </Container>
 );
 
 export default Header;

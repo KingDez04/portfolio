@@ -4,7 +4,6 @@ import styled from 'styled-components';
 const Container = styled.div`
   position: relative;
   width: 100%;
-  overflow: hidden;
 `;
 
 const Background = styled.div`
@@ -34,6 +33,16 @@ const Background = styled.div`
     opacity: 0.2;
     z-index: 1;
     border-radius: 20px;
+  }
+
+  @media (max-width: 768px) {
+    height: 20vh;
+    top: 20px;
+  }
+
+  @media (max-width: 480px) {
+    height: 19vh;
+    top: 30px;
   }
 `;
 
